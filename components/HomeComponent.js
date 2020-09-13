@@ -30,7 +30,7 @@ class Home extends Component {
             partners: PARTNERS
         };
     }
-    static nagivationOptions = {
+    static navigationOptions = {
         title: 'Home'
     }
     render() {
